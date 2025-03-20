@@ -24,6 +24,8 @@ One day, {noun2} walked into the room and caught {noun1} in the act.
 And so, {noun2} and the {noun1} went off to {verb2} and had a great time.
 The End.
 
+
 '''
+
 
 print(story)
